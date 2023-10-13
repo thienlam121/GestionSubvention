@@ -206,6 +206,7 @@ public class SubventionsController implements Initializable
                 alert.setHeaderText("");
                 alert.setContentText("Subvention enregistrée");
                 alert.setTitle("Affectation réussie");
+
                 alert.showAndWait();
             }
         }
